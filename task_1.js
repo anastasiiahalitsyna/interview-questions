@@ -3,7 +3,7 @@ class Calculator {
         return a + b;
     };
 
-    multiply(a, b) {
+    static multiply(a, b) {
         return a * b;
     };
 }
